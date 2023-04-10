@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-08T21:58:55 IST" name="MagicBox Automation TestSuite" finished-at="2023-04-08T21:59:30 IST" duration-ms="35400">
+    <groups>
+    </groups>
+    <test started-at="2023-04-08T21:58:55 IST" name="MagicBox TestCases" finished-at="2023-04-08T21:59:30 IST" duration-ms="35400">
+      <class name="com.tutorialNinja.qa.testcases.SearchTest">
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:21 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:24 IST" duration-ms="2370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="searchProduct()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:24 IST" name="searchProduct" finished-at="2023-04-08T21:59:24 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:24 IST" name="closeBrowser" finished-at="2023-04-08T21:59:24 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:24 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:27 IST" duration-ms="2272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="searchInvalidProduct()[pri:2, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:27 IST" name="searchInvalidProduct" finished-at="2023-04-08T21:59:27 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInvalidProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:27 IST" name="closeBrowser" finished-at="2023-04-08T21:59:27 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:27 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:29 IST" duration-ms="2245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="searchWithoutProduct()[pri:3, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:29 IST" name="searchWithoutProduct" finished-at="2023-04-08T21:59:30 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithoutProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.SearchTest@2cf3d63b]" started-at="2023-04-08T21:59:30 IST" name="closeBrowser" finished-at="2023-04-08T21:59:30 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tutorialNinja.qa.testcases.SearchTest -->
+      <class name="com.tutorialNinja.qa.testcases.RegistrationTest">
+        <test-method is-config="true" signature="atBeforeMethod_SelectRegisterLink()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationTest@a38c7fe]" started-at="2023-04-08T21:58:55 IST" name="atBeforeMethod_SelectRegisterLink" finished-at="2023-04-08T21:59:00 IST" duration-ms="4488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atBeforeMethod_SelectRegisterLink -->
+        <test-method signature="verifyRegisteringAccountbyProvidingOnlyMandatoryfields()[pri:1, instance:com.tutorialNinja.qa.testcases.RegistrationTest@a38c7fe]" started-at="2023-04-08T21:59:00 IST" name="verifyRegisteringAccountbyProvidingOnlyMandatoryfields" finished-at="2023-04-08T21:59:01 IST" duration-ms="1597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountbyProvidingOnlyMandatoryfields -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationTest@a38c7fe]" started-at="2023-04-08T21:59:01 IST" name="closeBrowser" finished-at="2023-04-08T21:59:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="atBeforeMethod_SelectRegisterLink()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationTest@a38c7fe]" started-at="2023-04-08T21:59:01 IST" name="atBeforeMethod_SelectRegisterLink" finished-at="2023-04-08T21:59:05 IST" duration-ms="3514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atBeforeMethod_SelectRegisterLink -->
+        <test-method signature="verifyRegisteringAccountWithAllfields()[pri:2, instance:com.tutorialNinja.qa.testcases.RegistrationTest@a38c7fe]" started-at="2023-04-08T21:59:05 IST" name="verifyRegisteringAccountWithAllfields" finished-at="2023-04-08T21:59:06 IST" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithAllfields -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationTest@a38c7fe]" started-at="2023-04-08T21:59:06 IST" name="closeBrowser" finished-at="2023-04-08T21:59:06 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tutorialNinja.qa.testcases.RegistrationTest -->
+      <class name="com.tutorialNinja.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:07 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:10 IST" duration-ms="2984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="verifyLoginwithvalidCredentialfromExcel(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:10 IST" name="verifyLoginwithvalidCredentialfromExcel" data-provider="validCredentialSupplier" finished-at="2023-04-08T21:59:10 IST" duration-ms="897" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qatest01@qa.qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithvalidCredentialfromExcel -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:10 IST" name="closeBrowser" finished-at="2023-04-08T21:59:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:10 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:13 IST" duration-ms="2719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="verifyLoginwithvalidCredentialfromExcel(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:13 IST" name="verifyLoginwithvalidCredentialfromExcel" data-provider="validCredentialSupplier" finished-at="2023-04-08T21:59:14 IST" duration-ms="772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qatest02@qa.qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithvalidCredentialfromExcel -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:14 IST" name="closeBrowser" finished-at="2023-04-08T21:59:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:14 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:17 IST" duration-ms="2700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="verifyLoginwithvalidCredential()[pri:2, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:17 IST" name="verifyLoginwithvalidCredential" finished-at="2023-04-08T21:59:18 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithvalidCredential -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:18 IST" name="closeBrowser" finished-at="2023-04-08T21:59:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="commonCodeAtBeforeMethod()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:18 IST" name="commonCodeAtBeforeMethod" finished-at="2023-04-08T21:59:20 IST" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonCodeAtBeforeMethod -->
+        <test-method signature="verifyLoginWithInvalidCredential()[pri:3, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:20 IST" name="verifyLoginWithInvalidCredential" finished-at="2023-04-08T21:59:21 IST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredential -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginTest@2eae8e6e]" started-at="2023-04-08T21:59:21 IST" name="closeBrowser" finished-at="2023-04-08T21:59:21 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tutorialNinja.qa.testcases.LoginTest -->
+    </test> <!-- MagicBox TestCases -->
+  </suite> <!-- MagicBox Automation TestSuite -->
+</testng-results>

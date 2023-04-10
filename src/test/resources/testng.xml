@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MagicBox Automation TestSuite">
+	
+	<!--<listeners>
+		<listener class-name="com.ninja.qa.listners.MyListners.java"/>
+	</listeners>-->
+	
+	
+	
+  <test name="MagicBox TestCases">
+    <classes>
+		 <class name="com.tutorialNinja.qa.testcases.RegistrationTest"/>
+		<class name="com.tutorialNinja.qa.testcases.LoginTest"/>
+	 
+	<class name="com.tutorialNinja.qa.testcases.SearchTest"/>
+          
+    <!--select line + crtl + two //-->
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
